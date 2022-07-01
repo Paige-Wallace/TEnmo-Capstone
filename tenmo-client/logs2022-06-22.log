@@ -1,3 +1,0 @@
-2022-06-22T14:58:06.1917335 500 : [{"timestamp":"2022-06-22T18:58:06.149+00:00","status":500,"error":"Internal Server Error","message":"Cannot invoke \"com.techelevator.tenmo.dao.UserDao.findIdByUsername(String)\" because \"this.userDao\" is null","path":"/balance"}]
-2022-06-22T14:59:47.4027373 500 : [{"timestamp":"2022-06-22T18:59:47.371+00:00","status":500,"error":"Internal Server Error","message":"Cannot invoke \"com.techelevator.tenmo.dao.UserDao.findIdByUsername(String)\" because \"this.userDao\" is null","path":"/balance"}]
-2022-06-22T19:47:00.2921957 401 : [no body]
